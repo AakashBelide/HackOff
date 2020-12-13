@@ -2,7 +2,7 @@
 <p align="center">
     <image src="bloodBank/images/logo.png" width="200">
 </p>
-# About CONSULT
+
 CONSULT is a responsive android application that maintains a record of blood donors and their blood groups along with requests made by people to the blood donors for emergency blood requirements.
 
 In addition to this, we have added a General Health query related chatbot (Siemens Healthineers Problem Statement). We have first scraped through website to create the dataset and then preprocessed the data in order use it for intents and responses for the Neural Network to learn and reply accordingly.
